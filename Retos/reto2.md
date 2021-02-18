@@ -1,0 +1,2 @@
+# Reto 2
+Realice un programa que determine el pago a realizar por la entrada al cine donde se pueden comprar  solo hasta cuatro entradas, donde el costo de estudiantes se les descuenta el 50%, a los niños el 30%  y a la compra de 4 tickets de adulto se les descuenta el 20%
