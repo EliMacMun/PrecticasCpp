@@ -2,7 +2,6 @@
 #include "iostream"
 using namespace std;
 int main() {
-
 inicio:
     system("cls");
     char opc;
@@ -20,8 +19,7 @@ inicio:
         cout << " El valor de la fuerza es:" << f << endl;
         system("pause");
         goto inicio;
-    }
-    else {
+    } else {
         if ((opc == 'M') || (opc == 'm')) {
             cout << " Capture la Fuerza" << endl;
             cin >> f;
@@ -31,8 +29,7 @@ inicio:
             cout << " El valor de la masa es:" << m << endl;
             system("pause");
             goto inicio;
-        }
-        else {
+        } else {
             if ((opc == 'A') || (opc == 'a')) {
                 cout << " Capture la Masa" << endl;
                 cin >> m;
@@ -42,8 +39,7 @@ inicio:
                 cout << " El valor de la Aceleración es:" << a << endl;
                 system("pause");
                 goto inicio;
-            }
-            else {
+            } else {
                 cout << " \n OPCION NO RECONOCIDA!!! \n\n ";
                 system("pause");
                 goto inicio;
