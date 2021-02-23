@@ -1,2 +1,2 @@
 # Practica 4
-Realizar un programa que nos permita identificar el tipo de triángulo que se tiene, de acuerdo a la introducción del valor de sus tres lados. Recordar que el triángulo equilátero, tiene sus tres lados iguales; el triángulo isósceles tiene dos lados iguales y uno diferente, y el escaleno tiene sus tres lados totalmente diferentes. 
+Realizar un programa que nos permita identificar el tipo de triángulo que se tiene, de acuerdo a la introducción del valor de sus tres lados. Recordar que el triángulo equilátero, tiene sus tres lados iguales; el triángulo isósceles tiene dos lados iguales y uno diferente, y el escaleno tiene sus tres lados totalmente diferentes.
