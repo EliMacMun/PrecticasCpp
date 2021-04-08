@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/EliMacMun/code/cpp/PracticasCpp/Practicas/Practica 7/practica7.cpp
+iostream
+C:/Users/EliMacMun/code/cpp/PracticasCpp/Practicas/Practica 7/iostream
+
